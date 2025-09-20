@@ -61,20 +61,6 @@ public class Kha {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaTruong-Pratek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaTruong-Pratek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaTruong-Pratek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Achievements
 
 ```yaml
